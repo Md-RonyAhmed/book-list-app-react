@@ -6,6 +6,7 @@
 .wrapper{
   overflow-x: hidden;
   overflow-y: auto;
+  background-color: antiquewhite;
 }
 
 .wrapper h1{
